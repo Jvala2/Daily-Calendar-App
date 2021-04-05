@@ -46,7 +46,7 @@ if (time7 == currentTime) {
     document.getElementById("t7").style.color = "white";
     // Past 
 
-} else (time7 > currentTime); {
+} else {
     document.getElementById("t7").style.backgroundColor = "#77dd77";
     document.getElementById("t7").style.color = "white";
     //Future. Indoor plumbing. It's gonna be big!
@@ -60,7 +60,7 @@ if (time8 == currentTime) {
     document.getElementById("t8").style.backgroundColor = "#d3d3d3";
     document.getElementById("t8").style.color = "white";
 
-} else (time8 > currentTime); {
+} else {
     document.getElementById("t8").style.backgroundColor = "#77dd77";
     document.getElementById("t8").style.color = "white";
 
@@ -74,7 +74,7 @@ if (time9 == currentTime) {
     document.getElementById("t9").style.backgroundColor = "#d3d3d3";
     document.getElementById("t9").style.color = "white";
 
-} else (time9 > currentTime); {
+} else {
     document.getElementById("t9").style.backgroundColor = "#77dd77";
     document.getElementById("t9").style.color = "white";
 
@@ -88,7 +88,7 @@ if (time10 == currentTime) {
     document.getElementById("t10").style.backgroundColor = "#d3d3d3";
     document.getElementById("t10").style.color = "white";
 
-} else (time10 > currentTime); {
+} else {
     document.getElementById("t10").style.backgroundColor = "#77dd77";
     document.getElementById("t10").style.color = "white";
 
@@ -102,7 +102,7 @@ if (time11 == currentTime) {
     document.getElementById("t11").style.backgroundColor = "#d3d3d3";
     document.getElementById("t11").style.color = "white";
 
-} else (time11 > currentTime); {
+} else {
     document.getElementById("t11").style.backgroundColor = "#77dd77";
     document.getElementById("t11").style.color = "white";
 
@@ -116,7 +116,7 @@ if (time12 == currentTime) {
     document.getElementById("t12").style.backgroundColor = "#d3d3d3";
     document.getElementById("t12").style.color = "white";
 
-} else (time12 > currentTime); {
+} else {
     document.getElementById("t12").style.backgroundColor = "#77dd77";
     document.getElementById("t12").style.color = "white";
 
@@ -130,7 +130,7 @@ if (time13 == currentTime) {
     document.getElementById("t13").style.backgroundColor = "#d3d3d3";
     document.getElementById("t13").style.color = "white";
 
-} else (time13 > currentTime); {
+} else {
     document.getElementById("t13").style.backgroundColor = "#77dd77";
     document.getElementById("t13").style.color = "white";
 
@@ -144,7 +144,7 @@ if (time14 == currentTime) {
     document.getElementById("t14").style.backgroundColor = "#d3d3d3";
     document.getElementById("t14").style.color = "white";
 
-} else (time14 > currentTime); {
+} else {
     document.getElementById("t14").style.backgroundColor = "#77dd77";
     document.getElementById("t14").style.color = "white";
 
@@ -158,7 +158,7 @@ if (time15 == currentTime) {
     document.getElementById("t15").style.backgroundColor = "#d3d3d3";
     document.getElementById("t15").style.color = "white";
 
-} else (time15 > currentTime); {
+} else {
     document.getElementById("t15").style.backgroundColor = "#77dd77";
     document.getElementById("t15").style.color = "white";
 
@@ -172,7 +172,7 @@ if (time16 == currentTime) {
     document.getElementById("t16").style.backgroundColor = "#d3d3d3";
     document.getElementById("t16").style.color = "white";
 
-} else (time16 > currentTime); {
+} else {
     document.getElementById("t16").style.backgroundColor = "#77dd77";
     document.getElementById("t16").style.color = "white";
 
@@ -186,7 +186,7 @@ if (time17 == currentTime) {
     document.getElementById("t17").style.backgroundColor = "#d3d3d3";
     document.getElementById("t17").style.color = "white";
 
-} else (time17 > currentTime); {
+} else {
     document.getElementById("t17").style.backgroundColor = "#77dd77";
     document.getElementById("t17").style.color = "white";
 
