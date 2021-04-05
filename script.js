@@ -52,141 +52,141 @@ if (time7 == currentTime) {
     //Future. Indoor plumbing. It's gonna be big!
 
 }
-if (time7 == currentTime) {
+if (time8 == currentTime) {
     document.getElementById("t8").style.backgroundColor = "#ff6961";
     document.getElementById("t8").style.color = "white";
 
-} else if (time7 < currentTime) {
+} else if (time8 < currentTime) {
     document.getElementById("t8").style.backgroundColor = "#d3d3d3";
     document.getElementById("t8").style.color = "white";
 
-} else (time7 > currentTime); {
+} else (time8 > currentTime); {
     document.getElementById("t8").style.backgroundColor = "#77dd77";
     document.getElementById("t8").style.color = "white";
 
 }
 
-if (time7 == currentTime) {
+if (time9 == currentTime) {
     document.getElementById("t9").style.backgroundColor = "#ff6961";
     document.getElementById("t9").style.color = "white";
 
-} else if (time7 < currentTime) {
+} else if (time9 < currentTime) {
     document.getElementById("t9").style.backgroundColor = "#d3d3d3";
     document.getElementById("t9").style.color = "white";
 
-} else (time7 > currentTime); {
+} else (time9 > currentTime); {
     document.getElementById("t9").style.backgroundColor = "#77dd77";
     document.getElementById("t9").style.color = "white";
 
 }
 
-if (time7 == currentTime) {
+if (time10 == currentTime) {
     document.getElementById("t10").style.backgroundColor = "#ff6961";
     document.getElementById("t10").style.color = "white";
 
-} else if (time7 < currentTime) {
+} else if (time10 < currentTime) {
     document.getElementById("t10").style.backgroundColor = "#d3d3d3";
     document.getElementById("t10").style.color = "white";
 
-} else (time7 > currentTime); {
+} else (time10 > currentTime); {
     document.getElementById("t10").style.backgroundColor = "#77dd77";
     document.getElementById("t10").style.color = "white";
 
 }
 
-if (time7 == currentTime) {
+if (time11 == currentTime) {
     document.getElementById("t11").style.backgroundColor = "#ff6961";
     document.getElementById("t11").style.color = "white";
 
-} else if (time7 < currentTime) {
+} else if (time11 < currentTime) {
     document.getElementById("t11").style.backgroundColor = "#d3d3d3";
     document.getElementById("t11").style.color = "white";
 
-} else (time7 > currentTime); {
+} else (time11 > currentTime); {
     document.getElementById("t11").style.backgroundColor = "#77dd77";
     document.getElementById("t11").style.color = "white";
 
 }
 
-if (time7 == currentTime) {
+if (time12 == currentTime) {
     document.getElementById("t12").style.backgroundColor = "#ff6961";
     document.getElementById("t12").style.color = "white";
 
-} else if (time7 < currentTime) {
+} else if (time12 < currentTime) {
     document.getElementById("t12").style.backgroundColor = "#d3d3d3";
     document.getElementById("t12").style.color = "white";
 
-} else (time7 > currentTime); {
+} else (time12 > currentTime); {
     document.getElementById("t12").style.backgroundColor = "#77dd77";
     document.getElementById("t12").style.color = "white";
 
 }
 
-if (time7 == currentTime) {
+if (time13 == currentTime) {
     document.getElementById("t13").style.backgroundColor = "#ff6961";
     document.getElementById("t13").style.color = "white";
 
-} else if (time7 < currentTime) {
+} else if (time13 < currentTime) {
     document.getElementById("t13").style.backgroundColor = "#d3d3d3";
     document.getElementById("t13").style.color = "white";
 
-} else (time7 > currentTime); {
+} else (time13 > currentTime); {
     document.getElementById("t13").style.backgroundColor = "#77dd77";
     document.getElementById("t13").style.color = "white";
 
 }
 
-if (time7 == currentTime) {
+if (time14 == currentTime) {
     document.getElementById("t14").style.backgroundColor = "#ff6961";
     document.getElementById("t14").style.color = "white";
 
-} else if (time7 < currentTime) {
+} else if (time14 < currentTime) {
     document.getElementById("t14").style.backgroundColor = "#d3d3d3";
     document.getElementById("t14").style.color = "white";
 
-} else (time7 > currentTime); {
+} else (time14 > currentTime); {
     document.getElementById("t14").style.backgroundColor = "#77dd77";
     document.getElementById("t14").style.color = "white";
 
 }
 
-if (time7 == currentTime) {
+if (time15 == currentTime) {
     document.getElementById("t15").style.backgroundColor = "#ff6961";
     document.getElementById("t15").style.color = "white";
 
-} else if (time7 < currentTime) {
+} else if (time15 < currentTime) {
     document.getElementById("t15").style.backgroundColor = "#d3d3d3";
     document.getElementById("t15").style.color = "white";
 
-} else (time7 > currentTime); {
+} else (time15 > currentTime); {
     document.getElementById("t15").style.backgroundColor = "#77dd77";
     document.getElementById("t15").style.color = "white";
 
 }
 
-if (time7 == currentTime) {
+if (time16 == currentTime) {
     document.getElementById("t16").style.backgroundColor = "#ff6961";
     document.getElementById("t16").style.color = "white";
 
-} else if (time7 < currentTime) {
+} else if (time16 < currentTime) {
     document.getElementById("t16").style.backgroundColor = "#d3d3d3";
     document.getElementById("t16").style.color = "white";
 
-} else (time7 > currentTime); {
+} else (time16 > currentTime); {
     document.getElementById("t16").style.backgroundColor = "#77dd77";
     document.getElementById("t16").style.color = "white";
 
 }
 
-if (time7 == currentTime) {
+if (time17 == currentTime) {
     document.getElementById("t17").style.backgroundColor = "#ff6961";
     document.getElementById("t17").style.color = "white";
 
-} else if (time7 < currentTime) {
+} else if (time17 < currentTime) {
     document.getElementById("t17").style.backgroundColor = "#d3d3d3";
     document.getElementById("t17").style.color = "white";
 
-} else (time7 > currentTime); {
+} else (time17 > currentTime); {
     document.getElementById("t17").style.backgroundColor = "#77dd77";
     document.getElementById("t17").style.color = "white";
 
