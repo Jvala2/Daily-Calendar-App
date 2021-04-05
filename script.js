@@ -226,10 +226,213 @@ button7.addEventListener("click", function(event){
     var ev7 = document.querySelector("#t7").value;
 
     localStorage.setItem("ev7", ev7);
+    console.log("button clicked")
 });
 
 //Shows what's in localstorage and displays it.
 function display7() {
     var ev7 = localStorage.getItem("ev7");
-    input7.textContent = ev7;
+    document.querySelector("#t7").textContent = ev7;
 };
+
+display7();
+
+
+
+
+button8.addEventListener("click", function(event){
+    event.preventDefault();
+
+    var ev8 = document.querySelector("#t8").value;
+
+    localStorage.setItem("ev8", ev8);
+    console.log("button clicked")
+});
+
+function display8() {
+    var ev8 = localStorage.getItem("ev8");
+    document.querySelector("#t8").textContent = ev8;
+};
+
+display8();
+
+
+
+
+
+
+button9.addEventListener("click", function(event){
+    event.preventDefault();
+
+    var ev9 = document.querySelector("#t9").value;
+
+    localStorage.setItem("ev9", ev9);
+    console.log("button clicked")
+});
+
+function display9() {
+    var ev9 = localStorage.getItem("ev9");
+    document.querySelector("#t9").textContent = ev9;
+};
+
+display9();
+
+
+
+
+
+button10.addEventListener("click", function(event){
+    event.preventDefault();
+
+    var ev10 = document.querySelector("#t10").value;
+
+    localStorage.setItem("ev10", ev10);
+    console.log("button clicked")
+});
+
+function display10() {
+    var ev10 = localStorage.getItem("ev10");
+    document.querySelector("#t10").textContent = ev10;
+};
+
+display10();
+
+
+
+
+
+
+button11.addEventListener("click", function(event){
+    event.preventDefault();
+
+    var ev11 = document.querySelector("#t11").value;
+
+    localStorage.setItem("ev11", ev11);
+    console.log("button clicked")
+});
+
+function display11() {
+    var ev11 = localStorage.getItem("ev11");
+    document.querySelector("#t11").textContent = ev11;
+};
+
+display11();
+
+
+
+
+
+button12.addEventListener("click", function(event){
+    event.preventDefault();
+
+    var ev12 = document.querySelector("#t12").value;
+
+    localStorage.setItem("ev12", ev12);
+    console.log("button clicked")
+});
+
+function display12() {
+    var ev12 = localStorage.getItem("ev12");
+    document.querySelector("#t12").textContent = ev12;
+};
+
+display12();
+
+
+
+
+
+
+button13.addEventListener("click", function(event){
+    event.preventDefault();
+
+    var ev13 = document.querySelector("#t13").value;
+
+    localStorage.setItem("ev13", ev13);
+    console.log("button clicked")
+});
+
+function display13() {
+    var ev13 = localStorage.getItem("ev13");
+    document.querySelector("#t13").textContent = ev13;
+};
+
+display13();
+
+
+
+
+
+button14.addEventListener("click", function(event){
+    event.preventDefault();
+
+    var ev14 = document.querySelector("#t14").value;
+
+    localStorage.setItem("ev14", ev14);
+    console.log("button clicked")
+});
+
+function display14() {
+    var ev14 = localStorage.getItem("ev14");
+    document.querySelector("#t14").textContent = ev14;
+};
+
+display14();
+
+
+
+
+button15.addEventListener("click", function(event){
+    event.preventDefault();
+
+    var ev15 = document.querySelector("#t15").value;
+
+    localStorage.setItem("ev15", ev15);
+    console.log("button clicked")
+});
+
+function display15() {
+    var ev15 = localStorage.getItem("ev15");
+    document.querySelector("#t15").textContent = ev15;
+};
+
+display15();
+
+
+
+
+button16.addEventListener("click", function(event){
+    event.preventDefault();
+
+    var ev16 = document.querySelector("#t16").value;
+
+    localStorage.setItem("ev16", ev16);
+    console.log("button clicked")
+});
+
+function display16() {
+    var ev16 = localStorage.getItem("ev16");
+    document.querySelector("#t16").textContent = ev16;
+};
+
+display16();
+
+
+
+
+
+button17.addEventListener("click", function(event){
+    event.preventDefault();
+
+    var ev17 = document.querySelector("#t17").value;
+
+    localStorage.setItem("ev17", ev17);
+    console.log("button clicked")
+});
+
+function display17() {
+    var ev17 = localStorage.getItem("ev17");
+    document.querySelector("#t17").textContent = ev17;
+};
+
+display17();
