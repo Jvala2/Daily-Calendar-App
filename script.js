@@ -196,27 +196,16 @@ if (time17 == currentTime) {
 
 
 var button7 = document.querySelector("#btn7");
-var input7 = document.querySelector("#t7");
 var button8 = document.querySelector("#btn8");
-var input8 = document.querySelector("#t8");
 var button9 = document.querySelector("#btn9");
-var input9 = document.querySelector("#t9");
 var button10 = document.querySelector("#btn10");
-var input10 = document.querySelector("#t10");
 var button11 = document.querySelector("#btn11");
-var input11 = document.querySelector("#t11");
 var button12 = document.querySelector("#btn12");
-var input12 = document.querySelector("#t12");
 var button13 = document.querySelector("#btn13");
-var input13 = document.querySelector("#t13");
 var button14 = document.querySelector("#btn14");
-var input14 = document.querySelector("#t14");
 var button15 = document.querySelector("#btn15");
-var input15 = document.querySelector("#t15");
 var button16 = document.querySelector("#btn16");
-var input16 = document.querySelector("#t16");
 var button17 = document.querySelector("#btn17");
-var input17 = document.querySelector("#t17");
 
 //Push to localstorage
 
