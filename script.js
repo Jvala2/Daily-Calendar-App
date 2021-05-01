@@ -14,7 +14,7 @@ newTime();
 
 var currentTime;
 
-currentTime = JSON.parse(moment().format("HH"))
+currentTime = moment().format("HH")
 
 // This part is supposed to get the current time and make it a variable.
 
